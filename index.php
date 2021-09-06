@@ -3,3 +3,4 @@
     echo "C6";
     echo "C8";
     echo "C4";
+    echo "C10";
